@@ -1,0 +1,22 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore Replit specific files
+.replit
+*.replit
+
+# Ignore node or Python environments if accidentally added
+node_modules/
+venv/
+
+# Ignore logs
+*.log
+
+# Ignore zip or archive files
+*.zip
+
+# Ignore OS generated files
+ehthumbs.db
+Icon?
+Desktop.ini
